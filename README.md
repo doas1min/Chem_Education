@@ -1,4 +1,4 @@
-# Advancing Chemistry Education: Integrating Electron Structure Theory Calculations with Pyton and Cheminformatics Tools
+# Integrating Electron Structure Theory Calculations with Python and Cheminformatics Tools
 
 ## Free access and distribution
 
