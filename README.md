@@ -10,6 +10,6 @@
 
 
 ## Reference Inputs/Outputs:
-* The initial explosive derivatives used to generate and characterize neural-network generated structures has also been included (NG_derivatives.csv)
-* The input files generated from the code, alongside the final optimized geometries from Gaussian, have been included as well, under their respective directories.
+* The initial explosive derivatives used to generate and characterize neural-network generated structures has been included (NG_derivatives.csv)
+* The generated input files from the code, alongside the final optimized geometries from Gaussian,are also available under their respective directories.
 
