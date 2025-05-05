@@ -1,0 +1,10 @@
+﻿NUM,SMILES
+1,O=[N+]([O-])OC(C(C(O[N+]([O-])=O)O[N+]([O-])=O)O[N+]([O-])=O)O[N+]([O-])=O
+2,O=[N+]([O-])OC(C(CO[N+]([O-])=O)O[N+]([O-])=O)O[N+]([O-])=O
+3,O=[N+]([O-])OCCC(O[N+]([O-])=O)(O[N+]([O-])=O)O[N+]([O-])=O
+4,O=[N+]([O-])OCC(O[N+]([O-])=O)(CO[N+]([O-])=O)O[N+]([O-])=O
+5,O=[N+]([O-])OC(C(O[N+]([O-])=O)O[N+]([O-])=O)O[N+]([O-])=O
+6,O=[N+]([O-])OC(CC(O[N+]([O-])=O)O[N+]([O-])=O)O[N+]([O-])=O
+7,O=[N+]([O-])OC(O[N+]([O-])=O)(CO[N+]([O-])=O)O[N+]([O-])=O
+8,O=[N+]([O-])OC(CO[N+]([O-])=O)O[N+]([O-])=O
+9,O=[N+]([O-])OCC(CO[N+]([O-])=O)O[N+]([O-])=O
